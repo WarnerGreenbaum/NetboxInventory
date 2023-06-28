@@ -1,4 +1,4 @@
-# **Netbox_CSV awesomeness README**
+# **Netbox_CSV README**
 
 This program is designed to automate the process of creating new devices in a web application using Selenium and Pandas libraries in Python.
 Prerequisites
